@@ -1,0 +1,4 @@
+WooCommerce==3.0.0
+PySimpleGUI==4.60.3
+tk==0.1.0
+pyserial==3.5
